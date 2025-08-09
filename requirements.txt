@@ -1,0 +1,23 @@
+# Core LangChain
+langchain==0.3.27
+langchain-community==0.3.15
+langchain-google-genai==2.1.7
+
+# Document Processing
+pypdf==5.9.0
+
+# Vector Store
+faiss-cpu==1.11.0
+
+# Google AI
+google-genai==1.26.0
+
+# Utilities
+python-dotenv==1.0.0
+
+# Web Search
+duckduckgo-search==8.1.1
+
+# FastAPI
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
